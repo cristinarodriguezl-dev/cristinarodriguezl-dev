@@ -15,6 +15,8 @@ Estoy formándome en desarrollo web full-stack: front-end, back-end y herramient
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GDevelop](https://img.shields.io/badge/GDevelop-4A90D9?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
 
 ## Contacto
 
