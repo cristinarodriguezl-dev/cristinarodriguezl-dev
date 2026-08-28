@@ -25,7 +25,7 @@ Estoy formándome en desarrollo web full-stack: front-end, back-end y herramient
 
 ## Contacto
 
-- Email: cristinarodriguez.cv@gmail.com
+- Email: cristinarodriguez-dev@proton.me
 
 ## GitHub Stats
 
