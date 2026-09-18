@@ -37,6 +37,10 @@ Estoy formándome en desarrollo web full-stack: front-end, back-end y herramient
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)
+![Hosting](https://img.shields.io/badge/Hosting-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Dominios](https://img.shields.io/badge/Dominios-F38020?style=for-the-badge&logo=namecheap&logoColor=white)
+![Servidores de juegos](https://img.shields.io/badge/Servidores_de_juegos-107C10?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## Contacto
 
